@@ -230,7 +230,21 @@ This will interpolate the format string with the value of methods `name.lastName
   * directoryPath
   * filePath
   * semver
-
+* Government Departments
+  * Power Department
+  * Food Department
+  * Police Department
+  * Transport Department
+  * Agriculture Department
+  * Health Department
+  * Defence Department
+  * Finance Department
+  * Communication Department
+  * Law and Justice
+  * Department of Mines
+  * Tourism Department
+  * Woman and Child Development
+  * Sports Department
 
 ## Localization
 

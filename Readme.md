@@ -245,7 +245,11 @@ This will interpolate the format string with the value of methods `name.lastName
   * Tourism Department
   * Woman and Child Development
   * Sports Department
-
+* Team
+  * Harish
+  * Sunitha
+  * Srikanth
+  * Naresh
 ## Localization
 
 As of version `v2.0.0` faker.js has support for multiple localities.
